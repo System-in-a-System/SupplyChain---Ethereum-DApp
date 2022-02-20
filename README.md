@@ -9,5 +9,5 @@ A simple implementation of a supply chain workflow developed in Ethereum smart c
 2. Map your Ganache port in truffle-config.js
 
 3. Run:
- 
+> truffle migrate development
 > truffle deploy --reset
